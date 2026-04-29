@@ -28,6 +28,3 @@ It also stores service history, including date, work done, and extra repairs.
 - service_checker.py
 - service.txt (stores history)
 - README.md
-
-## Author
-Drushti Varma
