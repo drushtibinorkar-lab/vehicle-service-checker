@@ -1,0 +1,44 @@
+Vehicle Type: 4w
+Vehicle: car
+Model: grand vitara
+Date: 20/04/2026
+Work: no
+Extra: no
+----------------------
+Vehicle Type: 2w
+Vehicle: car
+Model: alto
+Date: hrfgj
+Work: fghi
+Extra: uygh
+----------------------
+Vehicle Type: 2w
+Vehicle: Unknown
+Model: activa
+Date: 12/06/2026
+Work: gegular service
+Extra: no
+----------------------
+Vehicle Type: 2W
+Vehicle: bike
+Model: raider
+Date: 30/3/2026
+Work: regular serives
+Extra: no
+----------------------
+Vehicle Type: 2W
+Vehicle: scooty
+Model: dio
+Service Interval: 2000 km
+Date: 18/04/26
+Work: regular service
+Extra: side mirror replaced
+----------------------
+Vehicle Type: 2W
+Vehicle: bike
+Model: hero honda
+Service Interval: 2000 km
+Date: 12/04/26
+Work: regular sevicing
+Extra: changed the mirrors
+----------------------
